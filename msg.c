@@ -32,7 +32,7 @@ int main ()
 	fgets(msg,50,stdin);
 
      	char mob[10];
-	printf("Enter the Mobile No.:");
+	printf("Enter the receiver's Mobile No.:");
 	scanf("%s",&mob);
 
 
