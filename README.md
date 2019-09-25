@@ -1,2 +1,2 @@
 # SIMCOM
-Programs for SImCom SIM900A Module
+Programs for SimCom SIM900A Module
